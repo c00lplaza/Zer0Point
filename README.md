@@ -22,7 +22,7 @@ To get started with Zer0Point, clone the repository and follow the installation 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/zer0point.git
+git clone https://github.com/c00lplaza/zer0point.git
 
 # Navigate to the directory
 cd zer0point
